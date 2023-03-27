@@ -1,0 +1,2 @@
+arm_client:battery_simulator:robot_description:smach
+-DCATKIN_DEVEL_PREFIX=/home/karthik/manipulator_ws/devel -DCMAKE_INSTALL_PREFIX=/home/karthik/manipulator_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/karthik/manipulator_ws/devel
+
+Name: battery_simulator
+Description: Description of battery_simulator
+Version: 0.0.0
+Cflags: -I/home/karthik/manipulator_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs
